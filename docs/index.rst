@@ -7,10 +7,10 @@ How Do I Access My Sling Login Account Easily?
 Learn how to access your Sling login account effortlessly with this simple guide. Includes step-by-step instructions and helpful FAQs.
  
 .. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
-   :alt: Express VPN
+   :alt: Sling TV
    :width: 400px
    :align: center
-   :target: https://ccleaneraccount.com
+   :target: https://tvsling.net
 
 In today's world of streaming services, Sling TV has become a go-to platform for cord-cutters seeking flexible and affordable live TV. Whether you're new to the service or just looking to get back into your favorite shows, knowing how to access your Sling login account is the key to unlocking hours of entertainment.
 
